@@ -32,6 +32,10 @@ nav > p {
 nav > button {
   padding: 15px 20px 15px 20px;
   border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  opacity: 0.8;
+  background-color: rgb(255, 255, 255);
 }
 /* End nav section  */
 /* star banner section  */
